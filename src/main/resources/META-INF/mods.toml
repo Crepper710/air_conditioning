@@ -31,7 +31,7 @@ logoFile="air_conditioning_logo.png" #optional
 # A text field displayed in the mod UI
 credits="the creator(s) of the \"Create\" mod and the creator(s) of the \"Cold Sweat\" mod" #optional
 # A text field displayed in the mod UI
-authors="Love, Cheese and small house plants" #optional
+authors="Crepper710" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This mod adds an air conditioning block to control the temperture surrounding it
