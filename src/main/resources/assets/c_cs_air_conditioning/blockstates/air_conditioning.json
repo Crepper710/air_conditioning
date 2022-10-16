@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "x": 180, "y": 0
+    },
+    "facing=up": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "x": 0, "y": 0
+    },
+    "facing=north": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "y": 180, "x": 270
+    },
+    "facing=south": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "y": 0, "x": 270
+    },
+    "facing=west": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "y": 90, "x": 270
+    },
+    "facing=east": {
+      "model": "c_cs_air_conditioning:block/air_conditioning/block",
+      "y": 270, "x": 270
+    }
+  }
+}

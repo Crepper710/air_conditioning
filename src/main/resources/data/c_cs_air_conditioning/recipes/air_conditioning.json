@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ism",
+    "cac",
+    "mpi"
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "create:andesite_casing"
+    },
+    "s":
+    {
+      "item": "create:shaft"
+    },
+    "p":
+    {
+      "item": "create:propeller"
+    },
+    "c":
+    {
+      "item": "create:cogwheel"
+    },
+    "i":
+    {
+      "item": "minecraft:blue_ice"
+    },
+    "m":
+    {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result":
+  {
+    "item": "c_cs_air_conditioning:air_conditioning",
+    "count": 1
+  }
+}
